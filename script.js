@@ -4,8 +4,8 @@ const faqItems = document.querySelectorAll('.faq-item');
 const whatsappLinks = document.querySelectorAll('a[href="#whatsapp"]');
 
 // WhatsApp Configuration - IMPORTANTE: Substitua pelo número real
-const WHATSAPP_NUMBER = '5511999999999'; // Substitua pelo número real do WhatsApp
-const WHATSAPP_MESSAGE = 'Olá! Gostaria de solicitar uma bateria Moura com entrega e instalação. Pode me ajudar?';
+const WHATSAPP_NUMBER = '5511959275898'; // Substitua pelo número real do WhatsApp
+const WHATSAPP_MESSAGE = 'Olá, solicito o setor de baterias por gentileza';
 
 // Initialize
 document.addEventListener('DOMContentLoaded', function() {
