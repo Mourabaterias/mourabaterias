@@ -345,6 +345,7 @@ body {
     color: var(--gray-600);
     margin-bottom: var(--spacing-6);
     line-height: 1.6;
+margin-top: 40px; /* ajuste conforme o layout */
 }
 
 /* Hero Features - Mobile Optimized */
