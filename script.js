@@ -5,7 +5,7 @@ const whatsappLinks = document.querySelectorAll('a[href="#whatsapp"]');
 
 // WhatsApp Configuration - IMPORTANTE: Substitua pelo número real
 const WHATSAPP_NUMBER = '5511959275898'; // Substitua pelo número real do WhatsApp
-const WHATSAPP_MESSAGE = 'Olá, solicito o setor de baterias por gentileza';
+const WHATSAPP_MESSAGE = 'Olá, solicito o setor de baterias por gentileza...';
 
 // Initialize
 document.addEventListener('DOMContentLoaded', function() {
